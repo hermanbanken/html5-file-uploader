@@ -1,0 +1,11 @@
+By: Herman Banken
+Description:
+	Upload files selected from the local filesystem 
+	and upload them as raw binary to the webserver.
+	
+Usage:
+	I recommend using this plugin together with my 
+	jquery-dropzone plugin. This plugin will convert 
+	all matched nodes to DropZone's and when connected 
+	to this upload plugin this makes a very powerfull 
+	and user friendly tool for your admin users.
